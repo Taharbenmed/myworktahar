@@ -1,7 +1,14 @@
 h1{
   color: orange;
+  width: 200px;
+  height: 200px;
+  background-color: blueviolet;
+  font-size: 25px;
+  margin: 50px 0 0 50px;
+  padding: 50px 0 0 50px;
 }
 
 body{
   background-color: aquamarine;
 }
+
